@@ -1,2 +1,2 @@
 # sdpoliau 
-update new descvodfsa
+edited readme
